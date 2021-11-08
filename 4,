@@ -1,6 +1,0 @@
-      invoke  active_record
-      create    db/migrate/20211108163338_create_leases.rb
-   identical    app/models/lease.rb
-      invoke    test_unit
-   identical      test/models/lease_test.rb
-       force      test/fixtures/leases.yml
