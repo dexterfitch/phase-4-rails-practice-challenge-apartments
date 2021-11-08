@@ -1,0 +1,3 @@
+class RentSerializer < TenantSerializer
+    
+end
